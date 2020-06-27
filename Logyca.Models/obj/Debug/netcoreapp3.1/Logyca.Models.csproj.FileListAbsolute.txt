@@ -1,0 +1,15 @@
+C:\Users\sjrm_\source\repos\Logyca\Logyca.Models\bin\Debug\netcoreapp3.1\Logyca.Models.deps.json
+C:\Users\sjrm_\source\repos\Logyca\Logyca.Models\bin\Debug\netcoreapp3.1\Logyca.Models.dll
+C:\Users\sjrm_\source\repos\Logyca\Logyca.Models\bin\Debug\netcoreapp3.1\Logyca.Models.pdb
+C:\Users\sjrm_\source\repos\Logyca\Logyca.Models\obj\Debug\netcoreapp3.1\Logyca.Models.AssemblyInfoInputs.cache
+C:\Users\sjrm_\source\repos\Logyca\Logyca.Models\obj\Debug\netcoreapp3.1\Logyca.Models.AssemblyInfo.cs
+C:\Users\sjrm_\source\repos\Logyca\Logyca.Models\obj\Debug\netcoreapp3.1\Logyca.Models.dll
+C:\Users\sjrm_\source\repos\Logyca\Logyca.Models\obj\Debug\netcoreapp3.1\Logyca.Models.pdb
+C:\Users\sjrm_\source\repos\Logyca\Logyca.Models\obj\Debug\netcoreapp3.1\Logyca.Models.csprojAssemblyReference.cache
+D:\Prueba Tecnica\logyca\Logyca\Logyca.Models\bin\Debug\netcoreapp3.1\Logyca.Models.deps.json
+D:\Prueba Tecnica\logyca\Logyca\Logyca.Models\bin\Debug\netcoreapp3.1\Logyca.Models.dll
+D:\Prueba Tecnica\logyca\Logyca\Logyca.Models\bin\Debug\netcoreapp3.1\Logyca.Models.pdb
+D:\Prueba Tecnica\logyca\Logyca\Logyca.Models\obj\Debug\netcoreapp3.1\Logyca.Models.AssemblyInfoInputs.cache
+D:\Prueba Tecnica\logyca\Logyca\Logyca.Models\obj\Debug\netcoreapp3.1\Logyca.Models.AssemblyInfo.cs
+D:\Prueba Tecnica\logyca\Logyca\Logyca.Models\obj\Debug\netcoreapp3.1\Logyca.Models.dll
+D:\Prueba Tecnica\logyca\Logyca\Logyca.Models\obj\Debug\netcoreapp3.1\Logyca.Models.pdb
